@@ -1,0 +1,10 @@
+Reference:
+https://www.youtube.com/watch?v=dMFlS9tVO3c&feature=youtu.be
+https://docs.oracle.com/javase/tutorial/uiswing/layout/group.html
+https://javaprogkomp.blogspot.com/2013/06/program-menentukan-jenis-ukuran-dan.html
+https://www.javatpoint.com/java-actionlistener
+
+Nama Kelompok:
+Arvin Melvillo-2101628650
+Daniel-2101634911
+Juan Hebert-2101633070
